@@ -3,3 +3,63 @@
 @tailwind utilities;
 
 
+#container{
+ width: 100%;
+ margin-top: 3em;
+ background-color: #e7e9eb;
+ padding: 2em;
+}
+
+#container h1{
+    font-size: 1.3em;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
+#container ul{
+    list-style-type: disc;
+    margin-left: 2em;
+}
+
+span {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#exampleContainer{
+    width: 100%;
+    background-color: #c2c2c2;
+    padding: 2em;
+    border-radius: 0.3em;
+}
+
+#example{
+    width: 100%;
+    margin: 2em 0;
+    padding: 1em;
+    border-left: 0.3em solid green;
+    background-color: white;
+    border-radius: 0.3em;
+
+}
+
+#example p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#note{
+    margin: 2em 0;
+    width: 100%;
+    background-color: rgb(255, 255, 142);
+    padding: 2em;
+}
+
+#note h1{
+    font-size: 2em;
+    padding-bottom: 0.6em;
+}
+
+#note p{
+    font-size: 1em;
+    letter-spacing: 1px;
+}
