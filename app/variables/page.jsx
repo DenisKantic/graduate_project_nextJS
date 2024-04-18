@@ -39,7 +39,7 @@ const page = () => {
           <p>y = <span>6;</span></p>
           <p>z = x + y;</p>
       </div>
-      <a href="/" className='px-4 py-3  rounded-md  text-white font-semibold bg-[#2bad6d]
+      <a href="https://www.programiz.com/javascript/online-compiler/"  target='_blank' className='px-4 py-3  rounded-md  text-white font-semibold bg-[#2bad6d]
       hover:bg-[#54cf92]'>Probaj u Editoru</a>
 
     </div>
@@ -61,7 +61,7 @@ const page = () => {
           <p><span className='text-blue-800'>var</span> y = <span>6;</span></p>
           <p><span className='text-blue-800'>var</span> z = x + y;</p>
       </div>
-      <a href="/" className='px-4 py-3  rounded-md  text-white font-semibold bg-[#2bad6d]
+      <a href="https://www.programiz.com/javascript/online-compiler/"  target='_blank' className='px-4 py-3  rounded-md  text-white font-semibold bg-[#2bad6d]
       hover:bg-[#54cf92]'>Probaj u Editoru</a>
     </div>
 
@@ -76,14 +76,14 @@ const page = () => {
     </div>
 
     <div id='exampleContainer'>
-      <h1 className='text-2xl'>Primjer korištenja varijable <span>let</span></h1>
+      <h1>Primjer korištenja varijable <span>let</span></h1>
 
       <div id='example' className='flex flex-col'>
           <p><span className='text-blue-800'>let</span> x = <span>5;</span></p>
           <p><span className='text-blue-800'>let</span> y = <span>6;</span></p>
           <p><span className='text-blue-800'>let</span> z = x + y;</p>
       </div>
-      <a href="/" className='px-4 py-3  rounded-md  text-white font-semibold bg-[#2bad6d]
+      <a href="https://www.programiz.com/javascript/online-compiler/"  target='_blank' className='px-4 py-3  rounded-md  text-white font-semibold bg-[#2bad6d]
       hover:bg-[#54cf92]'>Probaj u Editoru</a>
     </div>
 
@@ -95,7 +95,7 @@ const page = () => {
           <p><span className='text-blue-800'>const</span> y = <span>6;</span></p>
           <p><span className='text-blue-800'>const</span> z = x + y;</p>
       </div>
-      <a href="/" className='px-4 py-3  rounded-md  text-white font-semibold bg-[#2bad6d]
+      <a href="https://www.programiz.com/javascript/online-compiler/"  target='_blank' className='px-4 py-3  rounded-md  text-white font-semibold bg-[#2bad6d]
       hover:bg-[#54cf92]'>Probaj u Editoru</a>
     </div>
 
@@ -107,7 +107,7 @@ const page = () => {
           <p><span className='text-blue-800'>const</span> y = <span>6;</span></p>
           <p><span className='text-blue-800'>let</span> z = x + y;</p>
       </div>
-      <a href="/" className='px-4 py-3  rounded-md  text-white font-semibold bg-[#2bad6d]
+      <a href="https://www.programiz.com/javascript/online-compiler/" target='_blank' className='px-4 py-3  rounded-md  text-white font-semibold bg-[#2bad6d]
       hover:bg-[#54cf92]'>Probaj u Editoru</a>
     </div>
 

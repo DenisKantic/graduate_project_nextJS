@@ -1,10 +1,8 @@
-import Image from 'next/image'
 
 export default function Home() {
   return (
-   <div className='h-screen w-full bg-red-400 flex justify-center items-center'>
-   
-      <h1>Izaberite opciju</h1>
+    <div>
+      <h1>Welcome</h1>
    </div>
   )
 }
