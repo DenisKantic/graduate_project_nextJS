@@ -12,7 +12,7 @@ const Navbar = () => {
             <p className='text-lg pt-5 pb-2 font-semibold'>Osnovna sintaksa i varijable</p>
             <Link id="link" href="/variables">Deklarisanje varijabli</Link>
             <Link  id="link" href="/TipoviPodataka">Tipovi podataka</Link>
-            <Link  id="link" href="/">Osnovne aritmetičke operacije</Link>
+            <Link  id="link" href="/operatori">Osnovne aritmetičke operacije</Link>
             <p className='text-lg pt-5 pb-2 font-semibold'>Control flow</p>
             <Link  id="link" href="/">If uslovi</Link>
             <Link  id="link" href="/">Operatori poređenja</Link>
