@@ -33,6 +33,10 @@ span {
     border-radius: 0.3em;
 }
 
+#exampleContainer h1{
+    font-size: 2em;
+}
+
 #example{
     width: 100%;
     margin: 2em 0;
@@ -40,7 +44,6 @@ span {
     border-left: 0.3em solid green;
     background-color: white;
     border-radius: 0.3em;
-
 }
 
 #example p{
@@ -62,4 +65,13 @@ span {
 #note p{
     font-size: 1em;
     letter-spacing: 1px;
+}
+
+#com{
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#blue{
+    color: blue;
 }
