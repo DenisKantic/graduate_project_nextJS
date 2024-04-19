@@ -9,7 +9,7 @@ const page = () => {
       <div className='w-full flex justify-between place-items-center pt-5 text-white'>
       <Link href="/variables" className='w-[8em] py-2 text-center rounded-md bg-[#2bad6d]
                     hover:bg-[#54cf92]'>Nazad</Link>
-      <Link href="/" className='w-[8em] py-2 text-center rounded-md bg-[#2bad6d]
+      <Link href="/operatori" className='w-[8em] py-2 text-center rounded-md bg-[#2bad6d]
       hover:bg-[#54cf92]'>Naprijed</Link>
       </div>
 
